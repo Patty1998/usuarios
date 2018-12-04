@@ -1,0 +1,69 @@
+*
+{
+	padding: 0px;
+	margin: 0px;
+}
+
+p{
+	display: block;
+    font-family: 'Roboto', sans-serif;
+    line-height: 18px;
+    background: #F4D03F;
+    padding: 15px 10px;
+	font-weight: bold;
+    margin: 0px;
+}
+
+aside{
+  background: #FFF;
+}
+
+article{
+	height: 669.5px;
+    display: inline-block;
+    font-family: 'Roboto', sans-serif;
+    line-height: 18px;
+    background: #AEB6BF;
+    font-size: 15px;
+}
+
+img{
+    margin: auto;
+	width: 80%;
+    padding: 10px;
+    display: block;
+}
+
+article h7{
+    font-style: italic;
+}
+
+/*para quitar las viñetas que tiene por defecto*/
+ul{
+    list-style: none;
+}
+
+/*    desaparecer el subrayado*/
+article .menu a{
+    text-decoration: none;
+}
+
+a{
+    color: black;
+    display: block;
+    padding: 15px 20px;
+    background: #AEB6BF;
+}
+
+/*sombreado al pasar el puntero*/
+a:hover{
+    background: #F2F3F4;
+    color: black;
+}
+
+article .menu .icono.izq{
+    float: left;
+    margin-right: 20px;
+    font-size: 19px;
+    line-height: 18px;
+}

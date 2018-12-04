@@ -1,0 +1,28 @@
+*
+{
+	padding: 0px;
+	margin: 0px;
+	font-family: sans-serif;
+	box-sizing: border-box;
+}
+
+body{
+	display: flex;
+	min-height: 100vh;
+	background-color: #fff;
+	display: flex;
+}
+
+form{
+	margin: auto;
+	width:auto;
+	background: #F3F3F3;
+	padding: 70px;
+}
+
+input{
+	
+	padding: 5px;
+	width: 50%;
+	float: right;
+}

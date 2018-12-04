@@ -1,0 +1,31 @@
+*
+{
+	padding: 0px;
+	margin: 0px;
+	font-family: sans-serif;
+	box-sizing: border-box;
+}
+
+body{
+	display: flex;
+	min-height: 100vh;
+	background-color: #fff;
+}
+
+table{
+	margin: 150px auto;
+	width: 100px auto;
+	background: #F3F3F3;
+}
+
+th{
+	border: solid 1px black;
+	padding: 15px;
+	background-color: #F1948A;
+}
+
+td{
+	border: solid 1px black;
+	padding: 15px;
+}
+
