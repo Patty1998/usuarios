@@ -1,3 +1,3 @@
 <?php
-	$conexion = new mysqli("localhost","root","","almacen1");
+	$conexion = new mysqli("localhost","root","","operaciones");
 ?>

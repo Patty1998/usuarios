@@ -4,6 +4,7 @@
 	margin: 0px;
 	font-family: sans-serif;
 	box-sizing: border-box;
+
 }
 
 body{
@@ -16,6 +17,7 @@ table{
 	margin: 150px auto;
 	width: 100px auto;
 	background: #F3F3F3;
+	text-align: center;
 }
 
 th{
