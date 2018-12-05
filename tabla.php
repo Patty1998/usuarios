@@ -43,8 +43,8 @@
 						<td><?php echo $row['dni']; ?></td>
 						<td><?php echo $row['usuario']; ?></td>
 						<td><?php echo $row['password']; ?></td>
-						<td><a href="modificar.php?id=<?php echo $row['id']; ?>"> Modificar</a></td>
-						<td><a href="eliminar.php?id=<?php echo $row['id']; ?>"> Eliminar</a></td>
+						<td><a href="index.php?id=<?php echo $row['id']; ?>"> Modificar</a></td>
+						<td><a href="index.php?id=<?php echo $row['id']; ?>"> Eliminar</a></td>
 					</tr>
 
 				<?php
