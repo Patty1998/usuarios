@@ -1,16 +1,12 @@
-*
-{
-	padding: 0px;
-	margin: 0px;
-	font-family: sans-serif;
-	box-sizing: border-box;
-
-}
 
 body{
-	display: flex;
-	min-height: 100vh;
-	background-color: #fff;
+	margin: 0;
+	padding: 0;
+	background: url(../img/paris1.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	font-family: sans-serif;
 }
 
 table{
@@ -23,7 +19,7 @@ table{
 th{
 	border: solid 1px black;
 	padding: 15px;
-	background-color: #F1948A;
+	background-color: #9aa0c7;
 }
 
 td{

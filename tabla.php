@@ -3,7 +3,8 @@
 <head>
 	<meta charset="utf-8">
 	<title>Lista de Usuarios</title>
-	<link rel="stylesheet" type="text/css" href="css/tabla.css">
+	<link rel="stylesheet" href="css/tabla.css">
+
 </head>
 <body>
 	<center>

@@ -1,0 +1,10 @@
+body{
+	margin: 0;
+	padding: 0;
+	background: url(../img/bg11.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	font-family: sans-serif;
+
+}
