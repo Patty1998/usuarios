@@ -2,6 +2,7 @@
 <html>
 <head>
 	<meta charset="utf-8">
+
 	<title>Lista de Usuarios</title>
 	<link rel="stylesheet" href="css/tabla.css">
 
@@ -46,7 +47,13 @@
 						<td><?php echo $row['password']; ?></td>
 						<td><a href="modificar.php?id=<?php echo $row['id']; ?>"> Modificar</a></td>
 						<td><a href="eliminar.php?id=<?php echo $row['id']; ?>"> Eliminar</a></td>
+
+						
 					</tr>
+					  <div class="box-header with-border">
+                          <h1 class="box-title"><font color="yellow"><strong>REGISTRO DE DATOS </strong></font><button id="btnagregar" onclick="location.href='registrar.php'"> Agregar</button></h1>
+                        <div class="box-tools pull-right">
+                        </div>
 
 				<?php
 					}
